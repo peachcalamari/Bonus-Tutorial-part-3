@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/NavAgentPatrols.unity
     guid: d6557d02532243f4582820ade283e46a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/pathfindpart2.unity
     guid: 7be5229c5c576744aadd69ffc925925c
+  - enabled: 1
+    path: Assets/Scenes/pathfindpart3.unity
+    guid: a3938e41935718e40bfc8ac9062000a1
   m_configObjects: {}
